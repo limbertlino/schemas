@@ -2,6 +2,7 @@
     "@context": {
         "name": "https://schema.org/Text",
         "passport": "https://schema.org/Text",
-        "period": "https://schema.org/Text"
+        "period": "https://schema.org/Text",
+	"gender": "https://schema.org/Text"
     }
 }
