@@ -1,0 +1,7 @@
+{
+    "@context": {
+        "name": "https://schema.org/Text",
+        "club-id": "https://schema.org/Text",
+        "period": "https://schema.org/Text"
+    }
+}
