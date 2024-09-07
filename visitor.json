@@ -1,7 +1,7 @@
 {
     "@context": {
         "name": "https://schema.org/Text",
-        "membership": "https://schema.org/Text",
+        "ticket": "https://schema.org/Text",
         "period": "https://schema.org/Text"
     }
 }
