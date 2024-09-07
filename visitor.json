@@ -2,6 +2,6 @@
     "@context": {
         "name": "https://schema.org/Text",
         "ticket": "https://schema.org/Text",
-        "type": "https://schema.org/Text"
+        "category": "https://schema.org/Text"
     }
 }
