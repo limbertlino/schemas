@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "passportNumber": "https://schema.org/Text",
+    "givenName": "https://schema.org/Text",
+    "birthCountry": "https://schema.org/Text"
+  }
+}
