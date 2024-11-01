@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "givenname": "https://schema.org/Text",
+    "passport": "https://schema.org/Text",
+    "country": "https://schema.org/Text"
+  }
+}
